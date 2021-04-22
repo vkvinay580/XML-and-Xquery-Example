@@ -1,0 +1,36 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<data>
+<row>
+  <ISBN>11</ISBN>
+  <Title>HarryPotter</Title>
+  <AuthNo>123</AuthNo>
+  <Price>15</Price>
+  <Category>Fiction</Category>
+  <Edition>1</Edition>
+  <Publisher_id>1</Publisher_id>
+  <staffid>1</staffid>
+  <ReservationDate>25042021</ReservationDate>
+</row>
+<row>
+  <ISBN>22</ISBN>
+  <Title>A Song of Ice and Fire</Title>
+  <AuthNo>124</AuthNo>
+  <Price>10</Price>
+  <Category>fiction</Category>
+  <Edition>1</Edition>
+  <Publisher_id>2</Publisher_id>
+  <staffid>1</staffid>
+  <ReservationDate>23042021</ReservationDate>
+</row>
+<row>
+  <ISBN>33</ISBN>
+  <Title>The Lord of The Rings</Title>
+  <AuthNo>125</AuthNo>
+  <Price>12</Price>
+  <Category>fiction</Category>
+  <Edition>1</Edition>
+  <Publisher_id>3</Publisher_id>
+  <staffid>1</staffid>
+  <ReservationDate>24042021</ReservationDate>
+</row>
+</data>
